@@ -1,0 +1,30 @@
+body{
+    background-color: teal;
+}
+
+canvas{
+    position: absolute;
+    background-color: white;
+    transform: translate(7%,-3%);
+}
+
+h1{
+   text-align: center;
+   font-style: italic;
+   font-family: cursive;
+   color: whitesmoke;
+}
+
+button{
+        position:absolute;
+        width: 100px;
+        height: 40px;
+        font-size: 20px;
+        font-style: italic;
+        background-color: transparent;
+        border: 5px solid gray;
+        border-radius: 20px;
+        padding: 5px;
+        top: 93%;
+        left: 90%;
+    }
